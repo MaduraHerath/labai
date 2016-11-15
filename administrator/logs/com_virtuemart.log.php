@@ -1,0 +1,4 @@
+#
+#<?php die("Forbidden."); ?>
+
+2016-11-15 10:27:22 ERROR vmError: Warning, the Safe Path is empty, for safety reasons it is very important to create a folder in a path not accessible by an URL or unguessable name, create also a folder 'invoices' and 'keys' in it to store your sensitive data secure. Our suggested path is for your system 'C:\wamp\www\vmfiles\'. <br>You can also use complex folder name as 'password' for example 'C:\wamp\www\labai/administrator/components/com_virtuemart\cGqs7rmB39k5\'. Use this link to the <a href='http://localhost/labai/administrator/index.php?option=com_virtuemart&view=config' >config</a>
