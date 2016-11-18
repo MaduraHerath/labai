@@ -55,7 +55,7 @@ class JConfig {
 	public $sef_suffix = '0';
 	public $unicodeslugs = '0';
 	public $feed_limit = '10';
-	public $feed_email = 'none';
+	public $feed_email = 'author';
 	public $log_path = 'C:\\wamp\\www\\labai\\administrator/logs';
 	public $tmp_path = 'C:\\wamp\\www\\labai/tmp';
 	public $lifetime = '60';
